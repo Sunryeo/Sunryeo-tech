@@ -44,8 +44,4 @@
 
 ![](https://velog.velcdn.com/images/elma98/post/e3afa78f-d038-41de-82c1-7c3596518db2/image.png)
 
-**\*이미지 출처:** https://www.youtube.com/watch?v=AWXPnMDZ9I0 영상 참조\*
-
-**‼️ 자바 데이터 타입 (\*이미지 출처:** https://www.youtube.com/watch?v=AWXPnMDZ9I0 영상 참조\*)
-
-![](https://velog.velcdn.com/images/elma98/post/e0fef7ad-b28f-4bd5-8657-93a998a707c2/image.png)
+**_이미지 출처: https://www.youtube.com/watch?v=AWXPnMDZ9I0 영상 참조_**
